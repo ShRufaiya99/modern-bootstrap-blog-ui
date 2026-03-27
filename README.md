@@ -16,6 +16,6 @@ This is a fully responsive blog landing page built using the **Bootstrap 5** fra
 
 ### 🔗 Live Demo:
 Check out the live project here: 
-
+https://shrufaiya99.github.io/modern-bootstrap-blog-ui/
 ---
 *Developed to master Bootstrap 5 as a Frontend Development student.*
